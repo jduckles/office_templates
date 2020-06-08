@@ -1,6 +1,6 @@
 # Filling in Word Documents with JSON data
 
-This uses the docxtemplater to do simple fillins inside of Word Documents. 
+This uses the docxtemplater to do simple fillins inside of Word Documents. This is mostly here for my future self, to remind me how to use it again in the future! 
 
 ![](docxtemplate.png)
 
