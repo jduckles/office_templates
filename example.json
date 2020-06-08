@@ -1,0 +1,18 @@
+{
+"title": "Awesome Proposal",
+"client": "The Best Client",
+"proposal_date": "June 8, 2020",
+"assignment": "Make awesome happen",
+"start_date": "June 1, 2020",
+"end_date": "June 31, 2020",
+"client_owner": "Bob Ross",
+"resourcing": "The best people",
+"body": "This is the body of my proposal. It is all contained within the JSON document.",
+"types_of_work": "Reports, programming, modeling",
+"client_phone": "5551212",
+"client_email": "awesome@thebestcompany.com",
+"account_manager": "Someone great",
+"account_manager_phone": "1800GREATWORK",
+"account_manager_email": "me@here.org"
+
+}
