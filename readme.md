@@ -1,4 +1,4 @@
-# Filling in Word Documents with template data
+# Filling in Word Documents with JSON data
 
 This uses the docxtemplater to do simple fillins inside of Word Documents. 
 
